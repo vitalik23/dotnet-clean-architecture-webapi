@@ -58,6 +58,8 @@ src
 ├── TaskManager.Domain
 └── TaskManager.Infrastructure
 
+```
+
 🧑‍💻 Author
 
 Built as a learning template for Clean Architecture in .NET Web API projects.
