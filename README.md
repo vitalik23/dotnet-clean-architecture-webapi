@@ -20,9 +20,11 @@ This project is designed for learning purposes and as a base template for real-w
 ## 🧱 Architecture Overview
 
 The project follows Clean Architecture principles:
+```
 API → Application → Domain
 ↑
 Infrastructure → Application
+```
 
 ### Layers:
 
